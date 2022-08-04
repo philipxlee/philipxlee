@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Philip. 👋 </h1>
 <h3 align="center">I'm an undergraduate student studying Computer Science at Duke University.</h3>
 
-- 📫 Reach me at: **philipxlee@duke.edu**
+- 📫 Reach me at: **philip.lee@duke.edu**
 
 - 📄 Learn more about me and my experiences at: **https://philipxlee.github.io/portfolio-website/**
 
