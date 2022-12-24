@@ -3,7 +3,7 @@
 
 - 📫 Reach me at: **philip.lee@duke.edu**
 
-- 📄 Learn more about me and my experiences at: **https://philipxlee.github.io/portfolio-website/**
+- 📄 Learn more about me and my experiences at: **https://philipxlee.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
