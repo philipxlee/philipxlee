@@ -29,7 +29,7 @@
 
 - 📫 Reach me at: **philip.lee@duke.edu**
 
-- 📄 Learn more about me and my experiences at: **https://philipxlee.github.io/**
+- 📄 Learn more about me and my experiences at: **www.philipxlee.com**
 
 
 <p align="left">
