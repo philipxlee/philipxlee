@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Philip! 👋 </h1>
 <h3 align="center">I'm an undergraduate student studying Computer Science at Duke University.</h3>
 
-<h3 align="left">Here's some technologies I've used: </h3>
+<h3 align="left">Here are some technologies I've used: </h3>
 <br/>
 <br/>
 <div align="center">
